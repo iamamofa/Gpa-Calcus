@@ -4,7 +4,7 @@
 
 If you want to support the development of this app, feel free to [sponsor](https://github.com/sponsors/marlon360) me or [buy me a coffee](https://ko-fi.com/marlon360).
 
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q71M4SL)
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/justiceoheneamofa)
 
 ## Copyright
 
