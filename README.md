@@ -1,10 +1,5 @@
 # GradeCalcus - GPA Calculator
 
-[Soon at the App Store](#)
-
-![Banner](Media/Banner.png)
-
-
 ## Support
 
 If you want to support the development of this app, feel free to [sponsor](https://github.com/sponsors/marlon360) me or [buy me a coffee](https://ko-fi.com/marlon360).
