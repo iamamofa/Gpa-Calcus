@@ -1,4 +1,10 @@
 # GradeCalcus - GPA Calculator
+ 
+ 
+## Tools and Stacks
+
+## How to Run
+`
 
 ## Support
 
@@ -10,4 +16,4 @@ If you want to support the development of this app, feel free to [sponsor](https
 
 This project has no license. That means you are not allowed to sell or distribute this app.
 All rights reserved.
-© 2022 Justice O. Amofa
+© 2023 Justice O. Amofa
