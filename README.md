@@ -4,7 +4,7 @@
 ## Tools and Stacks
 
 ## How to Run
-`
+`use the xcode IDE`
 
 ## Support
 
